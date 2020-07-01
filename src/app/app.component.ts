@@ -1,4 +1,4 @@
-import { Component, Injectable } from '@angular/core';
+import { Component} from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import {Encoder} from 'ce-component-datafabric-node2';
 
